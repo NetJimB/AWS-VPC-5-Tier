@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: template SacVpcTemplateV1.5.1.2 - CloudFormation template for network to support a 5-tier app in 3 AZs Branch Test 
+Description: template SacVpcTemplateV1.5.1.3 - CloudFormation template for network to support a 5-tier app in 3 AZs Desktop Merge Test 
 Parameters:
     KeyName:
         Description: Name of an EC2 KeyPair to enable SSH access to the instance.
